@@ -3,7 +3,7 @@
 ## Working Abstract
 We discuss challenges and opportunities across industries regarding ethical issues in the use and development of AI and big data. 
 We draw from personal experience and interviews in academia, information technology, cybersecurity, social work, entrepreneurship, research and law. Findings are compared to projections of technology evolution within those industries. 
-We represent a diverse range of investigators across age, gender, sexuality, industry, experience, and technical expertise - unified in analysis of how technology will impact our future careers. 
+We represent a diverse range of investigators across age, gender, sexuality, industry, experience, and technical expertise — unified in analysis of how technology will impact our future careers. 
 Through this lens, we aim to provide a scouting report on navigating ever-more-technical workplaces with insight for how to ethically engage in 21st century careers.
 
 
