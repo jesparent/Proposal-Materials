@@ -14,12 +14,11 @@ A diverse team of investigators across several industries and career-stages: we 
 We aim to provide a scouting report on navigating ever-more-technical workplaces with insight for how to ethically engage in 21st century careers. 
 
 ### Collaborators
-
-Jesse Parent, Orthogonal Research & Education Lab 
-Angela Pang, School of Social Work, Columbia University 
-Valeria Schnake, School of Law, University of Chile
-Anson Lim, Eastern Michigan University 
-Chrystal Bracken, South Valley Services to End Domestic Violence
-Anna Wang, University of Waterloo
+- Jesse Parent, Orthogonal Research & Education Lab 
+- Angela Pang, School of Social Work, Columbia University 
+- Valeria Schnake, School of Law, University of Chile
+- Anson Lim, Eastern Michigan University 
+- Chrystal Bracken, South Valley Services to End Domestic Violence
+- Anna Wang, University of Waterloo
 
 (As of 2/10/2020)
