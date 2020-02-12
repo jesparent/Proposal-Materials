@@ -16,11 +16,11 @@ first-come first-served basis. More information can be found here.
 ​
 ​
 ## Main deadlines
-Abstract submission deadline  |  March 1, 2020
-Notification  |  April 1, 2020
-Early Registration | April 10, 2020
-Program Announcement | April 15, 2020
-Registration | May 10, 2020
+- Abstract submission deadline  |  March 1, 2020
+- Notification  |  April 1, 2020
+- Early Registration | April 10, 2020
+- Program Announcement | April 15, 2020
+- Registration | May 10, 2020
 ​
 ### Topics of interest include but are not limited to:
 Human computation  •  Social computing •  Crowdsourcing  •  Crowdfunding  •  
