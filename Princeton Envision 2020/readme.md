@@ -1,9 +1,9 @@
 https://www.envision-future.org/conference
 
 ## THE 2019 CONFERENCE
-     The theme of our 2019 conference is “The Future of Us.” The conference will push participants to consider how new technologies will change how we live, our social groupings, our social, political, and economic systems, our psychology, and more fundamentally, what it means to be human. This theme emanates from our deeply held belief that careful consideration of these questions is central to maximizing the benefits of innovation. 
+The theme of our 2019 conference is “The Future of Us.” The conference will push participants to consider how new technologies will change how we live, our social groupings, our social, political, and economic systems, our psychology, and more fundamentally, what it means to be human. This theme emanates from our deeply held belief that careful consideration of these questions is central to maximizing the benefits of innovation. 
 
-​
+
 
 ### The conference will advance its theme by: 
 
