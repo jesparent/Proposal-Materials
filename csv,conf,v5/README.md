@@ -1,3 +1,5 @@
+See work with Bradly Alicea & Orthogonal Lab: [Repo Here](https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/csv%2Cconf%2Cv5/Abstract.md)
+
 # Csv,conf,v5
 https://csvconf.com/
 
