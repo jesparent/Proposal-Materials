@@ -1,5 +1,8 @@
 # GSoC 2020
 
+### Status
+- 03.20 - Draft Proposal Submitted
+
 ### Important Dates
 - Student Application Period Begins: March 16
 - Student Application Period Ends: March 31
