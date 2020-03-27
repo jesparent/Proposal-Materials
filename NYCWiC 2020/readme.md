@@ -1,7 +1,7 @@
 # New York Celebration of Women in Computing NYCWIC ‘20
 
-Poughkeepsie, NY. 
-April 3-4, 2020
+ORIGINAL DATE: Poughkeepsie, NY. April 3-4, 2020.
+LATEST UPDATE: Postponed, New Date TBD
 
 https://nycwic.org/
  
