@@ -2,6 +2,7 @@
 
 ### Status
 - 03.20 - Draft Proposal Submitted
+- 03.31 - Final Proposal Submitted to INCF.org
 
 ### Important Dates
 - Student Application Period Begins: March 16
