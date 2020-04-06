@@ -6,7 +6,7 @@
 
 
 ## Status
-- 03.31 - Final Proposal Submitted to INCF.org
+- 03.31 - Final Proposal Submitted (Organization: INCF) 
 - 03.20 - Draft Proposal Submitted
 
 ### Previous Year & Motivation
