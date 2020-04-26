@@ -1,5 +1,5 @@
 # ICLR | 2020
-Eighth International Conference on Learning Representations
+Eighth International Conference on Learning Representations (April 27-30), Workshops April 26
 
 https://iclr.cc/ - The conference has now moved to a virtual / online only format. 
 
