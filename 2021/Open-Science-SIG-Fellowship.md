@@ -9,7 +9,7 @@ https://ossig.netlify.app/awards/
 1. The potential time slots that would be suitable for you during the OHBM Hackathon.
 
 ## My Submission
-Jesse Parent | Main Website www.jesparent.com |Twitter www.twitter.com/JesParent
+Jesse Parent | Main Website www.jesparent.com | Twitter www.twitter.com/JesParent
 
 #### 1 Details
 I'm currently an Assitant Science and Lab Manager at the open-science centered Orthogonal Research & Educational Lab. I'm also a contributor to the DevoWorm project within the OpenWorm Foundation. 
@@ -24,9 +24,11 @@ as the future comes hurtling towards us. Open Science can play a key role in thi
 #### 3 Links
 - Neuromatch Academy study group at OREL: https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy
 - New York Celebration of Women in Computing '21 (In Progress!) https://github.com/OREL-group/ethics-society
-- OREL Main Lab https://github.com/OREL-group/ 
+- OREL Main Lab - GitHub ORG https://github.com/OREL-group/ 
+- [Orthogonal Research & Education Home Page](https://orthogonal-research.weebly.com/)
 - DevoWorm Repo https://github.com/devoworm/Group-Meetings/projects/1
 - BrainHack Collab on NeuroImaging https://github.com/learn-neuroimaging/hitchhackers_guide_brain
+- Cognition Futures & Cognition Study Group: https://github.com/CognitionFutures 
 #### 4 Macrotopics
 - version control & code testing;
 - reproducible workflows;
