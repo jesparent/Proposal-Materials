@@ -33,6 +33,6 @@ as the future comes hurtling towards us. Open Science can play a key role in thi
 - version control & code testing;
 - reproducible workflows;
 #### Potential Time Slots
-! I forgot what they were- generally afternoons EST or Weekens are best
+! I forgot what they were- generally afternoons EST or Weekends are best
 
 
