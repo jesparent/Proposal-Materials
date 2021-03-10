@@ -36,3 +36,12 @@ as the future comes hurtling towards us. Open Science can play a key role in thi
 ! I forgot what they were- generally afternoons EST or Weekends are best
 
 
+## Follow Up Question 
+The organizers reached out to me on Twitter to ask me these questions, with my responses below. Thank you!
+
+###
+1. Are you able to attend the 2021 OHBM Hackathon from June 16 to 18?
+2. Are you willing to lead small-group, hands-on training sessions during the 2021 OHBM Hackathon?
+3. Within those macro-topics you're most comfortable with (version control & code testing; reproducible workflows), what are some specific subjects would you be willing to cover as a potential TA?
+
+>  Oh sorry - 1) Yes 2) yes 3) Maybe the most so reproducible workflows and/or project management. I've recently gotten into ZenHub (a GitHub addon), but in general we use GitHub for project management extensively in our lab. I would be happy to cover project management in general, or how specific components of reproducible workflows, a documentation, automation etc all play a part in open science and effective projects.**
