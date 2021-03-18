@@ -7,3 +7,7 @@ https://nycwic.org/
  
 ## My Involvement
 - I was also invited to the panel "My Job Is Cool" as a preview of recent grads and what kind of employment opportunities are available. 
+
+
+# CANCELLED
+This event ended up being cancelled due to COVID-19 complications 
