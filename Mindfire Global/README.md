@@ -1,5 +1,7 @@
 # Mindfire Global - Missions
-Mindfire missions are now an essentially abandoned project. 
+2020 Update:Mindfire missions are now an essentially abandoned project. 
+
+### Background 
 Originally something I learned about from Dr Joanna Bryson at Envision 2017, a colleague of mine (Dan Elton) went to Mission 1, and became a Talent.
 I applied to Mission 2, and apparently made it to the final round of applications, before the Mission or perhaps more generally, the mission component of Mindfire ceased operations.
 
