@@ -1,7 +1,6 @@
 Submitted Flash Talk:
-### A Decade in Review: Computational Modeling of Embodied Cognition  
-- Jesse Parent
-
+### FrontierMap and Cotnition Futures
+- Jesse Parent - more on  [Research Gate](https://www.researchgate.net/publication/350357270_Frontier_Map_and_Cognition_Futures_Embodied_Intelligence_A_Survey_of_Computational_Models_of_Cognition)
 
 
 
